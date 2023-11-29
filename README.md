@@ -13,6 +13,7 @@ The "Warehouse Balance" project is a web application for inventory management of
    - View information about goods.
 ## Demo
 ![ezgif.com-gif-maker.gif](src%2Fassets%2Fgif%2Fezgif.com-gif-maker.gif)
+
 3. **Navigation:**
    - Use pagination to navigate.
 

@@ -1,0 +1,10 @@
+open 134.122.74.45
+arsen123
+199808Arsen.
+cd public_html
+binary
+mput dist/*
+
+
+
+
